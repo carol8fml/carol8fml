@@ -1,6 +1,6 @@
 <h2 align="center">Hi, my name is Carolina Gonçalves! <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40px"></h2>
 
-<p align="center">Studying information systems. I am a front-end developer in constant training.</p>
+<p align="center">Study information systems. I'm a web developer in constant training.</p>
 
 ## 👩‍💻 &nbsp;About me
 
